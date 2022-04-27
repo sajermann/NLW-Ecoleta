@@ -1,4 +1,4 @@
-![NextLevelWeek](https://lh3.googleusercontent.com/pw/ACtC-3f-7nBBuI0Alh5r4kgAEXknk0FKxnId6R195M_WSfEU7Gfv141FSRR-BxwVtdZJ1t5tqjk8xFAz3PFi9y6ebeGVa9cRhLucmNt64S_VoEFD2F97vtPvYQfKNQD2J3aBvyd2wFPofAAewTpNR-B0Eqpa=w233-h215-no?authuser=0)
+![NextLevelWeek](https://lh3.googleusercontent.com/pw/AM-JKLUC07mgsavuPL6bjrqz9umJSgCIK1HVBQsv5us5XACMjQlnQ6Rv1TrRWKY4tzY8aGiKe-u9A0o8CfQ4N9QBOoSlmnAri0-t2ibpyT-q3pdWyX9fYRHDAAzgtA4geOqQrxvOax1AP7ysjDWxdsMRmFsC=w233-h215-no?authuser=0)
 
 # 🚀 Ecoleta
 
@@ -22,7 +22,7 @@ O Back-end gerencia as APIs resultantes do banco de dados, o Front-end fornecia 
 
 Execute `npm install` no backend, frontend e mobile, para instalar as dependências.
 
-Rode `npm run dev` na pasta backend (Porta 3333), `npm start` nas pastas frontend (Porta 3000) e mobile (Porta 19001) lembrando que para o mobile precisa executar o Expo no seu celular ou utilizar um emulador android.
+Execute `npm run dev` na pasta backend (Porta 3333), `npm start` nas pastas frontend (Porta 3000) e mobile (Porta 19001) lembrando que para o mobile precisa executar o Expo no seu celular ou utilizar um emulador android.
 
 É necessário atualizar os endereços de IP dentro dos projetos de acordo com cada computador.
 
@@ -32,30 +32,30 @@ No Mobile, caso ocorra algum erro relacionado a fonts, execute `expo install exp
 
 **Tela Inicial No Desktop**
 
-![Inicial](https://lh3.googleusercontent.com/pw/ACtC-3ehhwSK8C7QQijqbLBZFoWPYSofGsbSBr2i-KBPh5ZXa_La3X_KkCbwwFY-XcbXAAmCmtSm2gfOyet276NLK2nqee7x0GJc0dBOEGpIp5zetujpjTzczurOVb6Fg9LbYyQly0obzSBmfBV52wMwdbJP=w1721-h832-no?authuser=0)
+![Inicial](https://lh3.googleusercontent.com/pw/AM-JKLWVin9OulwVeV3qQ7Lpfj4AjMNovZLF_jQjKYGWEdHv2bKM6flm61UGUV_-ueEJQjNlI_k5WNLeggLxPnyosDP9HtJyPmh7ka4grjJWkHsTPKwt3ON5NqXSDWdfOu59rtNKYYjUO82I-MPbObUsmz0R=w1721-h832-no?authuser=0)
 
 **Tela Cadastro Desktop 1**
 
-![Cadastro1](https://lh3.googleusercontent.com/pw/ACtC-3cHGXiXXyxtE95B-uj7Mc6ZVTsqucOxgP-KUuqt5r96w3pQTVcY-AItDJSBLYKkO_ahm8k71u_gWK2IrHuY1Jebdh-pisudiFF2sRmf_gXA6JURph_V7J-ECs4k19PBAuPtALGe_9EcZ1yxz7xjkaAf=w1357-h792-no?authuser=0)
+![Cadastro1](https://lh3.googleusercontent.com/pw/AM-JKLWZDFpeC4PvOz970X6sGYViVeRdeCE3dusplPqnvm9fJfU0wTwQLoJyp5Y9MZs59bybN8BAX6f0YDa-0SnxXqOzDCJoVMvMbfnFbs0OFVcthf9F9e23O1r4UpG6ybogJYvaY-VFkxuqDG5eF7VwKBW9=w1357-h792-no?authuser=0)
 
 **Tela Cadastro Desktop 2**
 
-![Cadastro2](https://lh3.googleusercontent.com/pw/ACtC-3ewcNfq4xAQhUe0xoy-MmBDLrcHHGLme9BfvtlO1jB6C5tlL424AP1b0nmdKzxfYbew0iTwZAzXsSsQRhAUqGy9zOdzaePeG1SzgD3A8Nw2kwnZE-ywDKvSuvevHX-BanvOEjpGsZUJi7vY0aGpkTKf=w907-h835-no?authuser=0)
+![Cadastro2](https://lh3.googleusercontent.com/pw/AM-JKLULpd0l1lnNBwAISqYxkuWU2X_5Cd7F8oyosCEmFspzwf8pXTDMD757neN_26paQHyeqpvpjtBcl9IOVMjY_2gCTE9yz38Tp_oLNLBJKJXj8_t7OaklYlJK8cOxAofFzaJAeOAD8NYxgUj-akAt_tlH=w907-h835-no?authuser=0)
 
 **Tela Cadastro Desktop 3**
 
-![Cadastro3](https://lh3.googleusercontent.com/pw/ACtC-3cpFfuG9w-3FgPMV8GZHqLqhQYNB2uJieG5xZsycUgU2aGlWVHjz7ADdfmV8WDSH0jX3hHNBLbOHvLT0GyytSsRVnsTCgTk4nCKV2oBSc9N6fdrlaDJzG2g9bc7nZdJWe9D-w22w6dVFzCN_16OHEUL=w901-h851-no?authuser=0)
+![Cadastro3](https://lh3.googleusercontent.com/pw/AM-JKLXdMlkKVxYu3erU9M760kAXSc9jpFwfgXiOipbqpfigYnMRb9qoyvkIp0VmVxvQk2g20m4UxW81QZqCullxrvG2Zv3m3wpMaIWLbPi2AkwiW9C8YnpKNlnweAPYX3bhbAJ4NB3LvxJEkos-39cI_nkh=w901-h851-no?authuser=0)
 
 **Tela Inicial Mobile**
 
-![InicialMobile](https://lh3.googleusercontent.com/pw/ACtC-3ch88gcA5ECddYaGxbIVJ75_Q829Zpqf-C3NUE-PWYa3uzqzCa6T2Oi7ZSp0PI7xzIV528tYZR7bobp9LmCHwsyaUFlJqQdXZmi4PzzcZRSUoOXOhUZ0NJSNX5HrbJQHPx0UI-5IF4DrYzwKMsyjy8R=w489-h867-no?authuser=0)
+![InicialMobile](https://lh3.googleusercontent.com/pw/AM-JKLV0NjPz61VPe-HOY5vEA6WoJLIFIhz8uSIQ2P09UVSiTJIbuWXNNVT6wfwLYvUD8TaW0_yJto-_Z0iTYR1W623gt35qHM7z3gQXSJ8NTCeCdQpQbtU_kGC05flJn2itpyNw3l9tGEI6XreKQVe3sgmD=w488-h867-no?authuser=0)
 
 
 **Tela Pesquisa Mobile**
 
-![TelaPesquisaMobile](https://lh3.googleusercontent.com/pw/ACtC-3e9AXcNTtoYzY1-dgulbmi2TqOdvN49fBjflsiDwYLKyrddBe9Yo7jrsBvCF3RG_YJjw3TjHwIbfyS96vaY43IClfF_-exB1TWmlVXhTRv7vPwkNXcbI23tcNP6qly-j8BFO3Ff0qZAqw-k7GHbCEmR=w489-h867-no?authuser=0)
+![TelaPesquisaMobile](https://lh3.googleusercontent.com/pw/AM-JKLUO62PCuD8ki09Ui_LJg63Aei_hLRj_NJIsd54FwBQ3OWoALlwqDYAdTW5-MvTJVOc6YaxpNFQzf-tjaHBUnWRekWekAQiIBwnv4JDUaQnuJc2RSPgreGQksBO7qHfzp2DDy7POSHbUUuRSxtROOHQ9=w488-h867-no?authuser=0)
 
 
 **Tela Descrição Mobile**
 
-![TelaDescricaoMobile](https://lh3.googleusercontent.com/pw/ACtC-3e8V8ZMbzIgcBZZQChce_NBFmfg3CLeHD-k7sywtLYqDewBhRdIC5bEyN7VB6XuyIadKigehEgU6w7FCnJaN7z0vkLusRmv_ojRhhWa1dpi5Ny-CsqHmys1e9ta1zrz7u6bCLiqs0SK-FvWQO6FoNeE=w489-h867-no?authuser=0)
+![TelaDescricaoMobile](https://lh3.googleusercontent.com/pw/AM-JKLV2Xs93ZvynIvpklFIpNFD2RUtRKsDTWiYicDtc6CNGPNlSa30skEFYUUXzDCDGZedZtElSCzhs_PKTdozGSw_QXZgixoR5ZREAOjSsMz2bjC9ht0ge3aqZEBN490Msr-DM79i3UAOzQGS75lcyGyMT=w488-h867-no?authuser=0)
